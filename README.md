@@ -12,3 +12,12 @@
 \/_/       \/_________/ \/_/     \/_/ \/___________/    
                                                         
 ```
+
+# Usage instructions
+
+- Clone repo
+- Add folder to unity hub
+- Run! 
+
+
+This game was built with v2019.3.15f1
